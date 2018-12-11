@@ -2,9 +2,7 @@ package com.mahwishriazjamil.domain;
 
 import java.math.BigDecimal;
 
-
-public class Current extends Account{
-	
+public class Current extends Account {
 	
 	public Current(String name, int sortCode, int accountNumber, BigDecimal balance) {
 		super(name, sortCode, accountNumber, balance);
@@ -12,7 +10,8 @@ public class Current extends Account{
 	
 	@Override
 	public void transfer(Account account, BigDecimal amount) {
-		throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+		withdraw(amount);
+		account.deposit(amount);
 	}
 	
 	@Override
@@ -23,11 +22,17 @@ public class Current extends Account{
 	
 	@Override
 	public void withdraw(BigDecimal amount) {
+		if ((amount.doubleValue() < 0) || (amount.doubleValue() > balance.doubleValue())){
+			throw new IllegalArgumentException("Amount to withdraw needs to be greater than 0 and less than available balance");
+		}
 		balance = balance.subtract(amount);
 	}
 	
 	@Override
 	public void deposit(BigDecimal amount) {
+		if (amount.doubleValue() <= 0.0){
+			throw new IllegalArgumentException("Amount to deposit needs to be greater than 0!");
+		}
 		balance = balance.add(amount);
 	}
 	
@@ -35,4 +40,5 @@ public class Current extends Account{
 	public void print() {
 		throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
 	}
+	
 }

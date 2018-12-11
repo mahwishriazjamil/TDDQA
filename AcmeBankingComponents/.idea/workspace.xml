@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fded387-ba46-46e5-8cdc-60aea8a861a0" name="Default Changelist" comment="" />
+    <list default="true" id="8fded387-ba46-46e5-8cdc-60aea8a861a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test/com.mahwishriazjamil.tests/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com.mahwishriazjamil.tests/CurrentAccountTest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AcmeBankingComponents2/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AcmeBankingComponents2/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AcmeBankingComponents2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AcmeBankingComponents2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AcmeBankingComponents2/AcmeBankingComponents2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AcmeBankingComponents2/src/com/mahwishriazjamil/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AcmeBankingComponents2/src/com/mahwishriazjamil/domain/Balance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AcmeBankingComponents2/src/com/mahwishriazjamil/domain/Current.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AcmeBankingComponents2/src/com/mahwishriazjamil/interfaces/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AcmeBankingComponents2/test/com.mahwishriazjamil.tests/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AcmeBankingComponents2/test/com.mahwishriazjamil.tests/CurrentAccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AcmeBankingComponents2/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AcmeBankingComponents2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AcmeBankingComponents2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AcmeBankingComponents.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AcmeBankingComponents.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com.mahwishriazjamil.domain/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com.mahwishriazjamil.domain/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com.mahwishriazjamil.domain/Balance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com.mahwishriazjamil.domain/Balance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com.mahwishriazjamil.domain/Current.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com.mahwishriazjamil.domain/Current.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mahwishriazjamil/interfaces/Printable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mahwishriazjamil/interfaces/Printable.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,13 +32,21 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/AcmeBankingComponents$CurrentAccountTest.ic" NAME="CurrentAccountTest Coverage Results" MODIFIED="1544446406100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.mahwishriazjamil.tests.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="175" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com.mahwishriazjamil.domain/Account.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="191">
+              <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -23,15 +54,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com.mahwishriazjamil.domain/Current.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="112">
               <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#571#572#0" expanded="true" />
+                <element signature="e#607#608#0" expanded="true" />
+                <element signature="e#759#760#0" expanded="true" />
+                <element signature="e#774#775#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/com.mahwishriazjamil.tests/CurrentAccountTest">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="52" column="8" lean-forward="true" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/com.mahwishriazjamil.tests/Calculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+              <folding>
+                <element signature="e#98#99#0" expanded="true" />
+                <element signature="e#116#117#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -40,8 +94,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com.mahwishriazjamil.domain/Balance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="112">
+              <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="5" />
               <folding>
                 <element signature="e#120#121#0" expanded="true" />
                 <element signature="e#140#141#0" expanded="true" />
@@ -53,8 +107,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/mahwishriazjamil/interfaces/Printable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="64">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -76,25 +130,38 @@
     <replaceStrings>
       <replace>sortCode</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Riaz-JamilM\Documents\GitHub\TDDQA\AcmeBankingComponents\test</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Account.java" />
         <option value="$PROJECT_DIR$/src/com.mahwishriazjamil.domain/Printable.java" />
-        <option value="$PROJECT_DIR$/src/com/mahwishriazjamil/interfaces/Printable.java" />
+        <option value="$PROJECT_DIR$/test/Printable.java" />
+        <option value="$PROJECT_DIR$/test/com.mahwishriazjamil.tests/CurrentAccountTest.java" />
+        <option value="$PROJECT_DIR$/test/default package/AcmeBankingTestSuite.java" />
+        <option value="$PROJECT_DIR$/test/default package/AcmeBankingTestSuite" />
         <option value="$PROJECT_DIR$/src/com.mahwishriazjamil.domain/Balance.java" />
+        <option value="$PROJECT_DIR$/src/com/mahwishriazjamil/interfaces/Printable.java" />
         <option value="$PROJECT_DIR$/src/com.mahwishriazjamil.domain/Account.java" />
         <option value="$PROJECT_DIR$/src/com.mahwishriazjamil.domain/Current.java" />
+        <option value="$PROJECT_DIR$/test/com.mahwishriazjamil.tests/Calculator.java" />
+        <option value="$PROJECT_DIR$/test/com.mahwishriazjamil.tests/CurrentAccountTests" />
+        <option value="$PROJECT_DIR$/test/com.mahwishriazjamil.tests/CurrentAccountTest" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
-    <option name="width" value="1944" />
-    <option name="height" value="1104" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-11" />
+    <option name="width" value="980" />
+    <option name="height" value="1044" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -125,6 +192,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="interfaces" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AcmeBankingComponents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AcmeBankingComponents" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AcmeBankingComponents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AcmeBankingComponents" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="com.mahwishriazjamil.tests" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -136,6 +214,21 @@
               <item name="AcmeBankingComponents" type="58d84e3e:PackageViewProjectNode" />
               <item name="AcmeBankingComponents" type="616d4139:PackageViewModuleNode" />
             </path>
+            <path>
+              <item name="AcmeBankingComponents" type="58d84e3e:PackageViewProjectNode" />
+              <item name="AcmeBankingComponents" type="616d4139:PackageViewModuleNode" />
+              <item name="com.mahwishriazjamil.domain" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="AcmeBankingComponents" type="58d84e3e:PackageViewProjectNode" />
+              <item name="AcmeBankingComponents" type="616d4139:PackageViewModuleNode" />
+              <item name="com.mahwishriazjamil.interfaces" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="AcmeBankingComponents" type="58d84e3e:PackageViewProjectNode" />
+              <item name="AcmeBankingComponents" type="616d4139:PackageViewModuleNode" />
+              <item name="com.mahwishriazjamil.tests" type="1f31426a:PackageElementNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -143,14 +236,29 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544440784538" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544451084550" />
+    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib/hamcrest-core-1.3.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.mahwishriazjamil.tests" />
       <recent name="com.mahwishriazjamil.domain" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Riaz-JamilM\Documents\GitHub\TDDQA\AcmeBankingComponents\test" />
+      <recent name="C:\Users\Riaz-JamilM\Documents\GitHub\TDDQA\AcmeBankingComponents" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Riaz-JamilM\Documents\GitHub\TDDQA\AcmeBankingComponents\test\com.mahwishriazjamil.tests" />
+      <recent name="C:\Users\Riaz-JamilM\Documents\GitHub\TDDQA\AcmeBankingComponents\test" />
       <recent name="C:\Users\Riaz-JamilM\Documents\GitHub\TDDQA\AcmeBankingComponents\src" />
       <recent name="C:\Users\Riaz-JamilM\Documents\GitHub\TDDQA\AcmeBankingComponents" />
       <recent name="C:\Users\Riaz-JamilM\Documents\GitHub\TDDQA\AcmeBankingComponents\com.mahwishriazjamil.domain" />
@@ -168,6 +276,85 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.CurrentAccountTest.testDeposit">
+    <configuration name="All in AcmeBankingComponents" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AcmeBankingComponents" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrentAccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AcmeBankingComponents" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mahwishriazjamil.tests.CurrentAccountTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mahwishriazjamil.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.mahwishriazjamil.tests.CurrentAccountTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrentAccountTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AcmeBankingComponents" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mahwishriazjamil.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mahwishriazjamil.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.mahwishriazjamil.tests.CurrentAccountTest" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrentAccountTest.testDeposit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AcmeBankingComponents" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mahwishriazjamil.tests.CurrentAccountTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mahwishriazjamil.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.mahwishriazjamil.tests.CurrentAccountTest" />
+      <option name="METHOD_NAME" value="testDeposit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.mahwishriazjamil.tests in AcmeBankingComponents" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AcmeBankingComponents" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mahwishriazjamil.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mahwishriazjamil.tests" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CurrentAccountTest.testDeposit" />
+        <item itemvalue="JUnit.CurrentAccountTest" />
+        <item itemvalue="JUnit.CurrentAccountTest.testAdd" />
+        <item itemvalue="JUnit.com.mahwishriazjamil.tests in AcmeBankingComponents" />
+        <item itemvalue="JUnit.All in AcmeBankingComponents" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -181,85 +368,170 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="CurrentAccountTest - 2018.12.10 at 12h 53m 32s.xml">
+      <configuration name="CurrentAccountTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CurrentAccountTest - 2018.12.10 at 12h 53m 48s.xml">
+      <configuration name="CurrentAccountTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CurrentAccountTest - 2018.12.10 at 12h 53m 54s.xml">
+      <configuration name="CurrentAccountTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_mahwishriazjamil_tests_in_AcmeBankingComponents - 2018.12.10 at 12h 54m 41s.xml">
+      <configuration name="com.mahwishriazjamil.tests in AcmeBankingComponents" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CurrentAccountTest - 2018.12.10 at 12h 55m 38s.xml">
+      <configuration name="CurrentAccountTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CurrentAccountTest_testAdd - 2018.12.10 at 13h 05m 27s.xml">
+      <configuration name="CurrentAccountTest.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CurrentAccountTest - 2018.12.10 at 13h 05m 37s.xml">
+      <configuration name="CurrentAccountTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CurrentAccountTest - 2018.12.10 at 13h 05m 46s.xml">
+      <configuration name="CurrentAccountTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CurrentAccountTest - 2018.12.10 at 13h 05m 48s.xml">
+      <configuration name="CurrentAccountTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CurrentAccountTest_testDeposit - 2018.12.10 at 13h 09m 20s.xml">
+      <configuration name="CurrentAccountTest.testDeposit" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="704" extended-state="7" />
+    <frame x="-7" y="0" width="653" height="696" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.19919029" />
-      <window_info active="true" id="Structure" order="1" sideWeight="0.50091076" side_tool="true" visible="true" weight="0.19919029" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.24939272" />
-      <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info id="Designer" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" sideWeight="0.49908924" visible="true" weight="0.539629" />
+      <window_info id="Structure" order="5" sideWeight="0.50091076" side_tool="true" weight="0.19919029" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32969034" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50040483" side_tool="true" weight="0.29508197" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32969034" />
       <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49959514" weight="0.31334624" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3989071" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32969034" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32955465" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" sideWeight="0.49908924" visible="true" weight="0.5413153" />
+      <window_info id="Structure" order="5" sideWeight="0.50091076" side_tool="true" weight="0.19919029" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32969034" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50040483" side_tool="true" weight="0.29508197" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32969034" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49959514" visible="true" weight="0.31334624" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3989071" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32969034" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32955465" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/mahwishriazjamil/interfaces/Printable.java">
+    <entry file="file://$PROJECT_DIR$/test/default/AcmeBankingTestsuite.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com.mahwishriazjamil.domain/Account.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com.mahwishriazjamil.tests/c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com.mahwishriazjamil.tests/CurrentAccountTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="144">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/default package/AcmeBankingTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com.mahwishriazjamil.tests/jun">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com.mahwishriazjamil.tests/CurrentAccountTest1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AcmeBankingComponents.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/default package/AcmeBankingTestSuite">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com.mahwishriazjamil.tests/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#116#117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com.mahwishriazjamil.tests/CurrentAccountTest">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="52" column="8" lean-forward="true" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com.mahwishriazjamil.domain/Balance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="112">
+          <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="5" />
           <folding>
             <element signature="e#120#121#0" expanded="true" />
             <element signature="e#140#141#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.mahwishriazjamil.domain/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -269,9 +541,27 @@
         <state relative-caret-position="112">
           <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding>
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#759#760#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mahwishriazjamil/interfaces/Printable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com.mahwishriazjamil.domain/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -279,9 +569,82 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jfxrt</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11.0.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>AcmeBankingComponents</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>hamcrest-core-1.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

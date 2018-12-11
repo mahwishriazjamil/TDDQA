@@ -4,7 +4,6 @@ import java.math.BigDecimal;
 
 public class Balance {
 	
-	
 	private final Account account;
 	private final BigDecimal amount;
 	
@@ -16,5 +15,6 @@ public class Balance {
 	public BigDecimal getAmount(){
 		return amount;
 	}
+	
 	
 }

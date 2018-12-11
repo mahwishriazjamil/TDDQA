@@ -1,0 +1,66 @@
+package com.mahwishriazjamil.tests;
+
+import com.mahwishriazjamil.domain.Account;
+import com.mahwishriazjamil.domain.Balance;
+import com.mahwishriazjamil.domain.Current;
+import org.junit.*;
+
+import java.math.BigDecimal;
+
+import static org.junit.Assert.assertEquals;
+
+
+public class CurrentAccountTest{
+	
+	public CurrentAccountTest() {
+	}
+	
+	@BeforeClass
+	public static void setUpClass() {
+	}
+	
+	@AfterClass
+	public static void tearDownClass() {
+	}
+	
+	@Before
+	public void setUp() {
+	}
+	
+	@After
+	public void tearDown() {
+	}
+	
+	
+	@Test
+	public void testDeposit() {
+		//Arrange, act, assert
+
+		// Arrange
+		BigDecimal amountToDeposit = new BigDecimal(5.20);
+		String name =  "Jonny Doe";
+		int sortCode = 548943;
+		int accountNumber = 43345445;
+		BigDecimal openingBalance = new BigDecimal(120.50);
+		
+		BigDecimal expectedBalance = openingBalance.add(amountToDeposit);
+		
+		Account currentAccount = new Current(name, sortCode, accountNumber, openingBalance);
+		
+		// Act
+		currentAccount.deposit(amountToDeposit);
+		Balance actualBalance = currentAccount.checkBalance();
+		
+		// Assert
+		assertEquals(expectedBalance, actualBalance.getAmount());
+	}
+
+	@Test
+	public void testAdd(){
+		Calculator cal = new Calculator();
+		int result = cal.add(10,23);
+		
+		assertEquals(33, result);
+	}
+
+}
