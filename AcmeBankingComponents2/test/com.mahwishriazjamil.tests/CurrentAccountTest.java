@@ -5,14 +5,15 @@ import com.mahwishriazjamil.domain.Balance;
 import com.mahwishriazjamil.domain.Current;
 import com.mahwishriazjamil.interfaces.ForexService;
 import org.junit.*;
-
 import java.math.BigDecimal;
-import java.math.BigInteger;
-
 import static org.junit.Assert.*;
 
 public class CurrentAccountTest {
+	
+	// fields
 	private Account currentAccount;
+	
+	// empty constructor
 	public CurrentAccountTest() {
 	}
 	
@@ -35,12 +36,6 @@ public class CurrentAccountTest {
 		currentAccount = new Current(name, sortCode, accountNumber, openingBalance);
 	}
 	
-	@After
-	public void tearDown() {
-		System.out.println("I am running after");
-	}
-	
-	
 	@Test
 	public void testDeposit() {
 		
@@ -58,52 +53,52 @@ public class CurrentAccountTest {
 	}
 	
 	// balance should go down
-	@Test(expected = IllegalArgumentException.class)
+	@Test
 	public void testWithdraw(){
 		
 		// Arrange
 		BigDecimal amountToWithdraw = new BigDecimal(10.00);
-		BigDecimal expectedBalance = new BigDecimal(100.00);
-		
+		BigDecimal expectedBalance = new BigDecimal(110.5);
+		double delta = 1e-3;
 		// Act
 		currentAccount.withdraw(amountToWithdraw);
 		Balance actualBalance = currentAccount.checkBalance();
 		
 		// Assert
-		assertEquals(expectedBalance, actualBalance.getAmount());
+		assertEquals(expectedBalance.doubleValue(), actualBalance.getAmount().doubleValue(), delta);
 	}
 	
 	@Test
 	public void testTransfer(){
 		// Arrange
 		BigDecimal amountToTransfer = new BigDecimal(5.20);
-//		Account beneficiaryAccount = new Current ("Anne Doe", 000000, new BigDecimal("12.50"), 12345678);
-		
+		Account beneficiaryAccount = new Current ("Anne Doe", 000000, 12345678, new BigDecimal("12.50"));
+		double delta = 1e-3;
 		// Act
-//		currentAccount.transfer(beneficiaryAccount, amountToTransfer); // unit under test
+		currentAccount.transfer(beneficiaryAccount, amountToTransfer); // unit under test
 		
 		// Assert
-//		BigDecimal.actualBeneficiaryBalance(beneficiaryAccount.checkBalance().getAmount());
+		BigDecimal actualBeneficiaryBalance = beneficiaryAccount.checkBalance().getAmount();
 		BigDecimal expectedBeneficiaryBalance = new BigDecimal("17.70");
-//		assertEquals(expectedBeneficiaryBalance, actualBeneficiaryBalance);
+		assertEquals(expectedBeneficiaryBalance.doubleValue(), actualBeneficiaryBalance.doubleValue(), delta);
 	}
 	
 	@Test
-	public void testGetBalanceAsEuro(){
+	public void testGetEuroBalance(){
 		// Arrange (following is a stub)
 		ForexService fakeForexService = new FakeForexService();
 		// 1.11 - EUR-GBP rate
+		currentAccount.setForexService(fakeForexService);
 		BigDecimal expectedEuroBalance = new BigDecimal(Double.toString(133.755));
-		double euroRate = fakeForexService.getRateByCode("EUR");
 		
 		// Act
-		Balance actualBalanceEuro = currentAccount.checkBalance(euroRate);
+		Balance actualBalanceEuro = currentAccount.checkBalance("EUR");
 		
 		// Assert
-		assertEquals(expectedEuroBalance, actualBalanceEuro);
+		assertEquals(expectedEuroBalance, actualBalanceEuro.getAmount());
 	}
 	
-	@Ignore
+	
 	@Test(expected = IllegalArgumentException.class)
 	public void shouldThrowExceptionWhenDepositIsLessThanZero(){
 		

@@ -30,8 +30,9 @@ public abstract class Account implements Printable {
 		this.service = service;
 	}
 	
-	public Balance checkBalance(double euroRate) {
-		return new Balance(balance.multiply(new BigDecimal(Double.toString(euroRate))),this);
+	public Balance checkBalance(String code) {
+		double rate = service.getRateByCode(code);
+		return new Balance(balance.multiply(new BigDecimal(Double.toString(rate))),this);
 		
 		
 	}

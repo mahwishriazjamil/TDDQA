@@ -2,7 +2,6 @@ package com.mahwishriazjamil.tests;
 
 import com.mahwishriazjamil.domain.Rate;
 import com.mahwishriazjamil.interfaces.ForexService;
-
 import java.util.Date;
 import java.util.Dictionary;
 import java.util.Hashtable;
@@ -31,8 +30,9 @@ public class FakeForexService implements ForexService {
 	}
 	
 	@Override
-	public Dictionary<String, Rate> getRates() {
+	public Dictionary<String, Rate> getRates(String code) {
 		return null;
 	}
+	
 	
 }

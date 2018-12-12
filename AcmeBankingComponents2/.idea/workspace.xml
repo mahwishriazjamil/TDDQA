@@ -2,43 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7eeaaddc-9d4a-4e2b-b8c4-89e43a36941e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AcmeBankingComponents/test/com.mahwishriazjamil.tests/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AcmeBankingComponents/test/com.mahwishriazjamil.tests/CurrentAccountTest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AcmeBankingComponents2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Balance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Current.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Rate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mahwishriazjamil/interfaces/ForexService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mahwishriazjamil/interfaces/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com.mahwishriazjamil.tests/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com.mahwishriazjamil.tests/CurrentAccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com.mahwishriazjamil.tests/FakeForexService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day1Revision/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day1Revision/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day1Revision/src/riazjamil/mahwish/app/Day1Revision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day1Revision/src/riazjamil/mahwish/domain/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day1Revision/test/riazjamil.mahwish.tests/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/test/hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AcmeBankingComponents/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AcmeBankingComponents/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AcmeBankingComponents/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AcmeBankingComponents/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AcmeBankingComponents/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AcmeBankingComponents/AcmeBankingComponents.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../AcmeBankingComponents/AcmeBankingComponents.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AcmeBankingComponents/src/com.mahwishriazjamil.domain/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AcmeBankingComponents/src/com.mahwishriazjamil.domain/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AcmeBankingComponents/src/com.mahwishriazjamil.domain/Balance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AcmeBankingComponents/src/com.mahwishriazjamil.domain/Balance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AcmeBankingComponents/src/com.mahwishriazjamil.domain/Current.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AcmeBankingComponents/src/com.mahwishriazjamil.domain/Current.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AcmeBankingComponents/src/com/mahwishriazjamil/interfaces/Printable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AcmeBankingComponents/src/com/mahwishriazjamil/interfaces/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StocksInformation/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StocksInformation/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StocksInformation/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StocksInformation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StocksInformation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StocksInformation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StocksInformation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StocksInformation/StocksInformation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StocksInformation/src/com/vodafone/mahwishriazjamil/domain/StockInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StocksInformation/src/com/vodafone/mahwishriazjamil/interfaces/StockWebService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StocksInformation/test/com/vodafone/mahwishriazjamil/test/FakeWebService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StocksInformation/test/com/vodafone/mahwishriazjamil/test/StockInformationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Current.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Current.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mahwishriazjamil/interfaces/ForexService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mahwishriazjamil/interfaces/ForexService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com.mahwishriazjamil.tests/CurrentAccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com.mahwishriazjamil.tests/CurrentAccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com.mahwishriazjamil.tests/FakeForexService.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com.mahwishriazjamil.tests/FakeForexService.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,11 +30,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/com.mahwishriazjamil.tests/CurrentAccountTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="96" column="61" selection-start-line="96" selection-start-column="61" selection-end-line="96" selection-end-column="61" />
+            <state relative-caret-position="1136">
+              <caret line="96" column="17" lean-forward="true" selection-start-line="96" selection-start-column="17" selection-end-line="96" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,17 +42,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/com.mahwishriazjamil.tests/FakeForexService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+            <state relative-caret-position="288">
+              <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#722#723#0" expanded="true" />
-                <element signature="e#770#771#0" expanded="true" />
-                <element signature="e#796#797#0" expanded="true" />
-                <element signature="e#814#815#0" expanded="true" />
+                <element signature="e#839#840#0" expanded="true" />
+                <element signature="e#857#858#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,12 +59,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Account.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="34" column="8" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+            <state relative-caret-position="512">
+              <caret line="34" column="89" selection-start-line="34" selection-start-column="89" selection-end-line="34" selection-end-column="89" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#748#749#0" expanded="true" />
-                <element signature="e#777#778#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/mahwishriazjamil/interfaces/ForexService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="128">
-              <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+              <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -122,8 +99,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Balance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+            <state relative-caret-position="224">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+              <folding>
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -131,8 +112,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Current.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="24" column="89" selection-start-line="24" selection-start-column="89" selection-end-line="24" selection-end-column="89" />
+            <state relative-caret-position="384">
+              <caret line="24" column="85" selection-start-line="24" selection-start-column="85" selection-end-line="24" selection-end-column="85" />
             </state>
           </provider>
         </entry>
@@ -169,21 +150,20 @@
         <option value="$PROJECT_DIR$/src/com/mahwishriazjamil/interfaces/Printable.java" />
         <option value="$PROJECT_DIR$/test/com.mahwishriazjamil.tests/Calculator.java" />
         <option value="$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Balance.java" />
-        <option value="$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Current.java" />
         <option value="$PROJECT_DIR$/src/com/mahwishriazjamil/interfaces/ForexServicee.java" />
         <option value="$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Rate.java" />
         <option value="$PROJECT_DIR$/src/com/mahwishriazjamil/interfaces/ForexService.java" />
         <option value="$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Account.java" />
-        <option value="$PROJECT_DIR$/test/com.mahwishriazjamil.tests/CurrentAccountTest.java" />
         <option value="$PROJECT_DIR$/test/com.mahwishriazjamil.tests/FakeForexService.java" />
+        <option value="$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Current.java" />
+        <option value="$PROJECT_DIR$/test/com.mahwishriazjamil.tests/CurrentAccountTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="1400" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="919" />
+    <option name="width" value="440" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -193,34 +173,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="AcmeBankingComponents2" type="58d84e3e:PackageViewProjectNode" />
-              <item name="AcmeBankingComponents2" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="AcmeBankingComponents2" type="58d84e3e:PackageViewProjectNode" />
-              <item name="AcmeBankingComponents2" type="616d4139:PackageViewModuleNode" />
-              <item name="com.mahwishriazjamil" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="AcmeBankingComponents2" type="58d84e3e:PackageViewProjectNode" />
-              <item name="AcmeBankingComponents2" type="616d4139:PackageViewModuleNode" />
-              <item name="com.mahwishriazjamil" type="1f31426a:PackageElementNode" />
-              <item name="domain" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="AcmeBankingComponents2" type="58d84e3e:PackageViewProjectNode" />
-              <item name="AcmeBankingComponents2" type="616d4139:PackageViewModuleNode" />
-              <item name="com.mahwishriazjamil" type="1f31426a:PackageElementNode" />
-              <item name="interfaces" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -284,6 +236,34 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AcmeBankingComponents2" type="58d84e3e:PackageViewProjectNode" />
+              <item name="AcmeBankingComponents2" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="AcmeBankingComponents2" type="58d84e3e:PackageViewProjectNode" />
+              <item name="AcmeBankingComponents2" type="616d4139:PackageViewModuleNode" />
+              <item name="com.mahwishriazjamil" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="AcmeBankingComponents2" type="58d84e3e:PackageViewProjectNode" />
+              <item name="AcmeBankingComponents2" type="616d4139:PackageViewModuleNode" />
+              <item name="com.mahwishriazjamil" type="1f31426a:PackageElementNode" />
+              <item name="domain" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="AcmeBankingComponents2" type="58d84e3e:PackageViewProjectNode" />
+              <item name="AcmeBankingComponents2" type="616d4139:PackageViewModuleNode" />
+              <item name="com.mahwishriazjamil" type="1f31426a:PackageElementNode" />
+              <item name="interfaces" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -291,11 +271,11 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544543275803" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544632201130" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib/hamcrest-core-1.3.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../StocksInformation" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -343,7 +323,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CurrentAccountTest.testGetBalanceAsEuro">
+  <component name="RunManager" selected="JUnit.CurrentAccountTest.testWithdraw">
     <configuration name="CurrentAccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AcmeBankingComponents2" />
       <extension name="coverage">
@@ -358,7 +338,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CurrentAccountTest.shouldThrowExceptionWhenDepositIsLessThanZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CurrentAccountTest.testEuroBalance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AcmeBankingComponents2" />
       <extension name="coverage">
         <pattern>
@@ -368,13 +348,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.mahwishriazjamil.tests" />
       <option name="MAIN_CLASS_NAME" value="com.mahwishriazjamil.tests.CurrentAccountTest" />
-      <option name="METHOD_NAME" value="shouldThrowExceptionWhenDepositIsLessThanZero" />
+      <option name="METHOD_NAME" value="testEuroBalance" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CurrentAccountTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CurrentAccountTest.testGetEuroBalance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AcmeBankingComponents2" />
       <extension name="coverage">
         <pattern>
@@ -384,13 +364,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.mahwishriazjamil.tests" />
       <option name="MAIN_CLASS_NAME" value="com.mahwishriazjamil.tests.CurrentAccountTest" />
-      <option name="METHOD_NAME" value="testAdd" />
+      <option name="METHOD_NAME" value="testGetEuroBalance" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CurrentAccountTest.testDeposit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CurrentAccountTest.testTransfer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AcmeBankingComponents2" />
       <extension name="coverage">
         <pattern>
@@ -400,13 +380,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.mahwishriazjamil.tests" />
       <option name="MAIN_CLASS_NAME" value="com.mahwishriazjamil.tests.CurrentAccountTest" />
-      <option name="METHOD_NAME" value="testDeposit" />
+      <option name="METHOD_NAME" value="testTransfer" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CurrentAccountTest.testGetBalanceAsEuro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CurrentAccountTest.testWithdraw" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AcmeBankingComponents2" />
       <extension name="coverage">
         <pattern>
@@ -416,7 +396,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.mahwishriazjamil.tests" />
       <option name="MAIN_CLASS_NAME" value="com.mahwishriazjamil.tests.CurrentAccountTest" />
-      <option name="METHOD_NAME" value="testGetBalanceAsEuro" />
+      <option name="METHOD_NAME" value="testWithdraw" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -424,11 +404,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CurrentAccountTest.testGetBalanceAsEuro" />
+        <item itemvalue="JUnit.CurrentAccountTest.testWithdraw" />
+        <item itemvalue="JUnit.CurrentAccountTest.testTransfer" />
         <item itemvalue="JUnit.CurrentAccountTest" />
-        <item itemvalue="JUnit.CurrentAccountTest.shouldThrowExceptionWhenDepositIsLessThanZero" />
-        <item itemvalue="JUnit.CurrentAccountTest.testDeposit" />
-        <item itemvalue="JUnit.CurrentAccountTest.testAdd" />
+        <item itemvalue="JUnit.CurrentAccountTest.testGetEuroBalance" />
+        <item itemvalue="JUnit.CurrentAccountTest.testEuroBalance" />
       </list>
     </recent_temporary>
   </component>
@@ -443,49 +423,57 @@
       <option name="presentableId" value="Default" />
       <updated>1544446630835</updated>
     </task>
+    <task id="LOCAL-00001" summary="day 2 update">
+      <created>1544543312839</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544543312839</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CurrentAccountTest_testDeposit - 2018.12.10 at 13h 22m 51s.xml">
-      <configuration name="CurrentAccountTest.testDeposit" configurationId="JUnit" />
+    <history-entry file="CurrentAccountTest_testWithdraw - 2018.12.12 at 10h 07m 56s.xml">
+      <configuration name="CurrentAccountTest.testWithdraw" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CurrentAccountTest_testAdd - 2018.12.10 at 13h 23m 13s.xml">
-      <configuration name="CurrentAccountTest.testAdd" configurationId="JUnit" />
+    <history-entry file="CurrentAccountTest_testWithdraw - 2018.12.12 at 10h 08m 54s.xml">
+      <configuration name="CurrentAccountTest.testWithdraw" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CurrentAccountTest_testAdd - 2018.12.10 at 13h 23m 40s.xml">
-      <configuration name="CurrentAccountTest.testAdd" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CurrentAccountTest_testDeposit - 2018.12.10 at 14h 03m 31s.xml">
-      <configuration name="CurrentAccountTest.testDeposit" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CurrentAccountTest_shouldThrowExceptionWhenDepositIsLessThanZero - 2018.12.10 at 14h 21m 32s.xml">
-      <configuration name="CurrentAccountTest.shouldThrowExceptionWhenDepositIsLessThanZero" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CurrentAccountTest_shouldThrowExceptionWhenDepositIsLessThanZero - 2018.12.10 at 14h 58m 17s.xml">
-      <configuration name="CurrentAccountTest.shouldThrowExceptionWhenDepositIsLessThanZero" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CurrentAccountTest_shouldThrowExceptionWhenDepositIsLessThanZero - 2018.12.10 at 14h 59m 56s.xml">
-      <configuration name="CurrentAccountTest.shouldThrowExceptionWhenDepositIsLessThanZero" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CurrentAccountTest - 2018.12.10 at 15h 55m 46s.xml">
+    <history-entry file="CurrentAccountTest - 2018.12.12 at 10h 11m 36s.xml">
       <configuration name="CurrentAccountTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CurrentAccountTest_testGetBalanceAsEuro - 2018.12.11 at 15h 35m 36s.xml">
-      <configuration name="CurrentAccountTest.testGetBalanceAsEuro" configurationId="JUnit" />
+    <history-entry file="CurrentAccountTest_testWithdraw - 2018.12.12 at 10h 12m 44s.xml">
+      <configuration name="CurrentAccountTest.testWithdraw" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CurrentAccountTest_testGetBalanceAsEuro - 2018.12.11 at 15h 40m 33s.xml">
-      <configuration name="CurrentAccountTest.testGetBalanceAsEuro" configurationId="JUnit" />
+    <history-entry file="CurrentAccountTest_testWithdraw - 2018.12.12 at 10h 13m 43s.xml">
+      <configuration name="CurrentAccountTest.testWithdraw" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CurrentAccountTest - 2018.12.12 at 10h 14m 03s.xml">
+      <configuration name="CurrentAccountTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CurrentAccountTest - 2018.12.12 at 10h 15m 11s.xml">
+      <configuration name="CurrentAccountTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CurrentAccountTest_testTransfer - 2018.12.12 at 10h 16m 56s.xml">
+      <configuration name="CurrentAccountTest.testTransfer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CurrentAccountTest_testTransfer - 2018.12.12 at 10h 17m 59s.xml">
+      <configuration name="CurrentAccountTest.testTransfer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CurrentAccountTest_testWithdraw - 2018.12.12 at 10h 18m 04s.xml">
+      <configuration name="CurrentAccountTest.testWithdraw" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1010" height="704" extended-state="6" />
+    <frame x="-7" y="-7" width="1034" height="704" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
-      <window_info content_ui="combo" id="Project" order="4" weight="0.32947367" />
+      <window_info content_ui="combo" id="Project" order="4" weight="0.33441296" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.24947369" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50040483" side_tool="true" weight="0.32969034" />
@@ -493,7 +481,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Version Control" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49959514" weight="0.3989071" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49959514" weight="0.39344263" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3989071" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -519,7 +507,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Version Control" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49959514" visible="true" weight="0.3989071" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49959514" visible="true" weight="0.39344263" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3989071" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -532,6 +520,10 @@
       <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
     </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="day 2 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 2 update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test/helloTest.groovy" />
@@ -563,10 +555,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Balance.java">
+    <entry file="file://$PROJECT_DIR$/test/com.mahwishriazjamil.tests/CurrentAccountTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        <state relative-caret-position="1136">
+          <caret line="96" column="17" lean-forward="true" selection-start-line="96" selection-start-column="17" selection-end-line="96" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com.mahwishriazjamil.tests/FakeForexService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="34" column="89" selection-start-line="34" selection-start-column="89" selection-end-line="34" selection-end-column="89" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mahwishriazjamil/interfaces/ForexService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -584,13 +611,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mahwishriazjamil/interfaces/ForexService.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Balance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        <state relative-caret-position="224">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Current.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="85" selection-start-line="24" selection-start-column="85" selection-end-line="24" selection-end-column="85" />
         </state>
       </provider>
     </entry>
@@ -598,49 +633,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Current.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="24" column="89" selection-start-line="24" selection-start-column="89" selection-end-line="24" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="34" column="8" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#748#749#0" expanded="true" />
-            <element signature="e#777#778#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/com.mahwishriazjamil.tests/CurrentAccountTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="96" column="61" selection-start-line="96" selection-start-column="61" selection-end-line="96" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/com.mahwishriazjamil.tests/FakeForexService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
-            <element signature="e#796#797#0" expanded="true" />
-            <element signature="e#814#815#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

@@ -22,7 +22,7 @@ public class Current extends Account {
 	
 	@Override
 	public void withdraw(BigDecimal amount) {
-		if ((amount.doubleValue() < 0) || (amount.doubleValue() > balance.doubleValue())){
+		if (amount.doubleValue() > balance.doubleValue() || amount.doubleValue() < 0) {
 			throw new IllegalArgumentException("Amount to withdraw needs to be greater than 0 and less than available balance");
 		}
 		balance = balance.subtract(amount);

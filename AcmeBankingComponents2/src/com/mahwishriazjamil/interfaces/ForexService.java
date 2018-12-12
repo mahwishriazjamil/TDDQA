@@ -6,5 +6,5 @@ import java.util.Dictionary;
 
 public interface ForexService {
 	double getRateByCode(String code);
-	Dictionary<String, Rate> getRates();
+	Dictionary<String, Rate> getRates(String code);
 }
