@@ -14,12 +14,15 @@ public class FakeWebService implements StockWebService {
 		return true;
 	}
 	
+//	current price, number of shares outstanding
+	// using dependency injection to gain data
 	private Map<String,String> getData(){
 		Map<String,String> stockData = new HashMap<>();
-		stockData.put("AMZN", "AMZN, Amazon, 11950.8, 200000000");
-		stockData.put("EBAY", "?,?,?,?");
-		stockData.put("IBM", "?,?,?,?");
-		stockData.put("ESL", "?,?,?,?");
+		// symbol, name, price per share, numbers of share outstanding?
+		stockData.put("AMZN","AMZN,Amazon,11950.8,20000");
+		stockData.put("EBAY","EBAY,ebay,11950.8,20000");
+		stockData.put("IBM","AMZN,Amazon,11950.8,20000");
+		stockData.put("ESL","AMZN,Amazon,11950.8,20000");
 		
 		return stockData;
 	}

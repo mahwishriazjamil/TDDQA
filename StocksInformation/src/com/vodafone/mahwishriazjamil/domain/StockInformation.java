@@ -16,9 +16,7 @@ public class StockInformation  {
 	private String companyName;
 	private double currentPrice; // deviated from spec - changed from int to double as more precise
 	private int numberOfSharesOutstanding;
-	// number of shares * latest trading .. use setMarket... method
 	private int marketCapitalisationInMillions;
-	private static final String PASSWORD_PATTERN = "((?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$%]).{8})";
 	private Pattern pattern;
 	private Matcher matcher;
 	private boolean isLoggedIn;
@@ -27,7 +25,7 @@ public class StockInformation  {
 	// constructor
 	public StockInformation(int userID, String password, String symbol, StockWebService stockWebService) {
 
-		if (authenticateUserID(userID) && authenticatePassword(password)){
+		if (authenticateUserID(userID) && validatePassword(password)){
 			this.userID = userID;
 			this.password = password;
 			this.symbol = symbol;
@@ -48,7 +46,7 @@ public class StockInformation  {
 		this.setSymbol(splitString[0]);
 		this.setCompanyName(splitString[1]);
 		this.setCurrentPrice(Double.parseDouble(splitString[2]));
-		this.setMarketCapitalisationInMillions(Integer.parseInt(splitString[3]));
+		this.setNumberOfSharesOutstanding(Integer.parseInt(splitString[3]));
 	}
 	
 	// getters
@@ -121,8 +119,10 @@ public class StockInformation  {
 		this.numberOfSharesOutstanding = numberOfSharesOutstanding;
 	}
 	
-	private void setMarketCapitalisationInMillions(int marketCapitalisationInMillions){
-		this.marketCapitalisationInMillions = marketCapitalisationInMillions;
+	private void setMarketCapitalisationInMillions(){
+		
+		// number of shares * latest trading price
+		this.marketCapitalisationInMillions = (int) (this.getNumberOfSharesOutstanding() * this.getCurrentPrice());
 	}
 	
 	@Override
@@ -146,15 +146,18 @@ public class StockInformation  {
 	}
 	
 	
-	private boolean authenticatePassword(String password){
-		boolean correctPasswordFormat = false;
-		if (!password.matches(PASSWORD_PATTERN)){
-			throw new IllegalArgumentException("Password must be a string of characters with a combination of upper and lowercase, numbers and symbols, and at least 8 characters in length.");
-		}
-		else {
-			correctPasswordFormat = true;
-		}
-		return correctPasswordFormat;
+	private boolean validatePassword(String password){
+		Pattern pattern  = Pattern.compile("((?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[^aA-zZ0-9]).{8,})");
+
+		Matcher matcher  = pattern.matcher(password);
+		matcher.matches();
+//		if (!password.matches(PASSWORD_PATTERN)){
+//			throw new IllegalArgumentException("Password must be a string of characters with a combination of upper and lowercase, numbers and symbols, and at least 8 characters in length.");
+//		}
+//		else {
+//			correctPasswordFormat = true;
+//		}
+		return matcher.matches();
 	}
 	
 	

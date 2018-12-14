@@ -20,6 +20,7 @@ public class StockInformationTest {
 	
 	@After
 	public void tearDown() throws Exception {
+	
 	}
 	
 	@Test (expected = IllegalArgumentException.class)
@@ -45,19 +46,18 @@ public class StockInformationTest {
 	public void testAuthenticateShouldThrowWhenPasswordIsValid(){
 		
 		// Arrange
-		double delta = 1e-5;
+		double delta = 1e-3;
 		int userID = 1234;
-		String password = "G&9QU&CL";
+		String password = "!zai1codnA";
 		String symbol = "AMZN";
 		StockWebService stockWebService = new FakeWebService();
-		double expectedPrice = 12.00;
+		double expectedPrice = 11950.8;
 		
 		// Act
 		StockInformation stockInformation = new StockInformation(userID, password, symbol, stockWebService);
 		double actualPrice = stockInformation.getCurrentPrice();
 		
-		
-		// Asserting
+		// Assert
 		assertEquals(expectedPrice, actualPrice, delta);
 		
 	}

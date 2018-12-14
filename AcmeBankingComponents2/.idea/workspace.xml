@@ -2,24 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7eeaaddc-9d4a-4e2b-b8c4-89e43a36941e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../StocksInformation/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StocksInformation/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StocksInformation/.idea/libraries/junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StocksInformation/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StocksInformation/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StocksInformation/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StocksInformation/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StocksInformation/StocksInformation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StocksInformation/src/com/vodafone/mahwishriazjamil/domain/StockInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StocksInformation/src/com/vodafone/mahwishriazjamil/interfaces/StockWebService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StocksInformation/test/com/vodafone/mahwishriazjamil/test/FakeWebService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StocksInformation/test/com/vodafone/mahwishriazjamil/test/StockInformationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingApplication/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingApplication/src/com/qa/domain/MessageFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StubsTutorial/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StubsTutorial/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StubsTutorial/src/com/company/BasicCalculatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StubsTutorial/src/com/company/MathApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StubsTutorial/src/stubsTutorial/StubsTutorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StubsTutorial/test/com/vodafone/test/BasicCalculatorStub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StubsTutorial/test/com/vodafone/test/MathApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mockTutorial/src/com/vodafone/domain/MathApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mockTutorial/src/com/vodafone/interfaces/BasicCalculatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mockTutorial/src/com/vodafone/mockTutorial/MockTutorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mockTutorial/test/MathApplicationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Current.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Current.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mahwishriazjamil/interfaces/ForexService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mahwishriazjamil/interfaces/ForexService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com.mahwishriazjamil.tests/CurrentAccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com.mahwishriazjamil.tests/CurrentAccountTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com.mahwishriazjamil.tests/FakeForexService.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com.mahwishriazjamil.tests/FakeForexService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StocksInformation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StocksInformation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StocksInformation/src/com/vodafone/mahwishriazjamil/domain/StockInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StocksInformation/src/com/vodafone/mahwishriazjamil/domain/StockInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StocksInformation/test/com/vodafone/mahwishriazjamil/test/FakeWebService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StocksInformation/test/com/vodafone/mahwishriazjamil/test/FakeWebService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StocksInformation/test/com/vodafone/mahwishriazjamil/test/StockInformationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StocksInformation/test/com/vodafone/mahwishriazjamil/test/StockInformationTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,8 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/com.mahwishriazjamil.tests/CurrentAccountTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1136">
-              <caret line="96" column="17" lean-forward="true" selection-start-line="96" selection-start-column="17" selection-end-line="96" selection-end-column="17" />
+            <state relative-caret-position="175">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,7 +45,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/com.mahwishriazjamil.tests/FakeForexService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
+            <state relative-caret-position="224">
               <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -59,7 +59,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Account.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
+            <state relative-caret-position="464">
               <caret line="34" column="89" selection-start-line="34" selection-start-column="89" selection-end-line="34" selection-end-column="89" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -71,7 +71,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/mahwishriazjamil/interfaces/ForexService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
+            <state relative-caret-position="96">
               <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -160,10 +160,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="919" />
-    <option name="width" value="440" />
-    <option name="height" value="1044" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="297" />
+    <option name="height" value="696" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -271,7 +272,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544632201130" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544781086260" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -323,7 +324,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CurrentAccountTest.testWithdraw">
+  <component name="RunManager" selected="JUnit.CurrentAccountTest">
     <configuration name="CurrentAccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AcmeBankingComponents2" />
       <extension name="coverage">
@@ -404,9 +405,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CurrentAccountTest" />
         <item itemvalue="JUnit.CurrentAccountTest.testWithdraw" />
         <item itemvalue="JUnit.CurrentAccountTest.testTransfer" />
-        <item itemvalue="JUnit.CurrentAccountTest" />
         <item itemvalue="JUnit.CurrentAccountTest.testGetEuroBalance" />
         <item itemvalue="JUnit.CurrentAccountTest.testEuroBalance" />
       </list>
@@ -434,9 +435,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CurrentAccountTest_testWithdraw - 2018.12.12 at 10h 07m 56s.xml">
-      <configuration name="CurrentAccountTest.testWithdraw" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CurrentAccountTest_testWithdraw - 2018.12.12 at 10h 08m 54s.xml">
       <configuration name="CurrentAccountTest.testWithdraw" configurationId="JUnit" />
     </history-entry>
@@ -464,9 +462,12 @@
     <history-entry file="CurrentAccountTest_testWithdraw - 2018.12.12 at 10h 18m 04s.xml">
       <configuration name="CurrentAccountTest.testWithdraw" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CurrentAccountTest - 2018.12.13 at 11h 02m 08s.xml">
+      <configuration name="CurrentAccountTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1034" height="704" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -481,7 +482,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Version Control" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49959514" weight="0.39344263" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49959514" visible="true" weight="0.39344263" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3989071" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -557,8 +558,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/com.mahwishriazjamil.tests/CurrentAccountTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1136">
-          <caret line="96" column="17" lean-forward="true" selection-start-line="96" selection-start-column="17" selection-end-line="96" selection-end-column="17" />
+        <state relative-caret-position="175">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -567,7 +568,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/com.mahwishriazjamil.tests/FakeForexService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
+        <state relative-caret-position="224">
           <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -579,7 +580,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mahwishriazjamil/domain/Account.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
+        <state relative-caret-position="464">
           <caret line="34" column="89" selection-start-line="34" selection-start-column="89" selection-end-line="34" selection-end-column="89" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -589,7 +590,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mahwishriazjamil/interfaces/ForexService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
+        <state relative-caret-position="96">
           <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />

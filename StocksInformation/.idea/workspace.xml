@@ -2,24 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2a917be-8e62-474c-b8ef-9b8baf333c0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StocksInformation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vodafone/mahwishriazjamil/domain/StockInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vodafone/mahwishriazjamil/interfaces/StockWebService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/FakeWebService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/StockInformationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingApplication/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingApplication/src/com/qa/domain/MessageFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StubsTutorial/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StubsTutorial/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StubsTutorial/src/com/company/BasicCalculatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StubsTutorial/src/com/company/MathApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StubsTutorial/src/stubsTutorial/StubsTutorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StubsTutorial/test/com/vodafone/test/BasicCalculatorStub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StubsTutorial/test/com/vodafone/test/MathApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mockTutorial/src/com/vodafone/domain/MathApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mockTutorial/src/com/vodafone/interfaces/BasicCalculatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mockTutorial/src/com/vodafone/mockTutorial/MockTutorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mockTutorial/test/MathApplicationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AcmeBankingComponents2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AcmeBankingComponents2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AcmeBankingComponents2/src/com/mahwishriazjamil/domain/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AcmeBankingComponents2/src/com/mahwishriazjamil/domain/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AcmeBankingComponents2/src/com/mahwishriazjamil/domain/Current.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AcmeBankingComponents2/src/com/mahwishriazjamil/domain/Current.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AcmeBankingComponents2/src/com/mahwishriazjamil/interfaces/ForexService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AcmeBankingComponents2/src/com/mahwishriazjamil/interfaces/ForexService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AcmeBankingComponents2/test/com.mahwishriazjamil.tests/CurrentAccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AcmeBankingComponents2/test/com.mahwishriazjamil.tests/CurrentAccountTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AcmeBankingComponents2/test/com.mahwishriazjamil.tests/FakeForexService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AcmeBankingComponents2/test/com.mahwishriazjamil.tests/FakeForexService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vodafone/mahwishriazjamil/domain/StockInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vodafone/mahwishriazjamil/domain/StockInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/FakeWebService.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/FakeWebService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/StockInformationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/StockInformationTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,40 +30,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/vodafone/mahwishriazjamil/domain/StockInformation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="47">
-              <caret line="18" column="67" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
+            <state relative-caret-position="176">
+              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1024#1025#0" expanded="true" />
-                <element signature="e#1044#1045#0" expanded="true" />
-                <element signature="e#1077#1078#0" expanded="true" />
-                <element signature="e#1099#1100#0" expanded="true" />
-                <element signature="e#1130#1131#0" expanded="true" />
-                <element signature="e#1164#1165#0" expanded="true" />
-                <element signature="e#1198#1199#0" expanded="true" />
-                <element signature="e#1221#1222#0" expanded="true" />
+                <element signature="n#!!block;n#getAvailable#0;n#StockInformation#0" />
                 <element signature="n#!!block;n#getExists#0;n#StockInformation#0" />
                 <element signature="n#!!block;n#getCompanyName#0;n#StockInformation#0" />
-                <element signature="e#1368#1369#0" expanded="true" />
-                <element signature="e#1394#1395#0" expanded="true" />
                 <element signature="n#!!block;n#getNumberOfSharesOutstanding#0;n#StockInformation#0" />
-                <element signature="e#1530#1531#0" expanded="true" />
-                <element signature="e#1591#1592#0" expanded="true" />
+                <element signature="n#!!block;n#getMarketCapitalisationInMillions#0;n#StockInformation#0" />
                 <element signature="n#!!block;n#setUserID#0;n#StockInformation#0" />
                 <element signature="n#!!block;n#setPassword#0;n#StockInformation#0" />
                 <element signature="n#!!block;n#setSymbol#0;n#StockInformation#0" />
-                <element signature="e#1862#1863#0" expanded="true" />
-                <element signature="e#1895#1896#0" expanded="true" />
-                <element signature="e#1938#1939#0" expanded="true" />
-                <element signature="e#1965#1966#0" expanded="true" />
-                <element signature="e#2017#2018#0" expanded="true" />
-                <element signature="e#2054#2055#0" expanded="true" />
-                <element signature="e#2108#2109#0" expanded="true" />
-                <element signature="e#2147#2148#0" expanded="true" />
-                <element signature="method#setMarketCapitalisationInMillions#0;class#StockInformation#0" />
+                <element signature="n#!!block;n#setAvailable#0;n#StockInformation#0" />
+                <element signature="n#!!block;n#setExists#0;n#StockInformation#0" />
+                <element signature="n#!!block;n#setCompanyName#0;n#StockInformation#0" />
+                <element signature="method#toString#0;class#StockInformation#0" />
+                <element signature="method#authenticateUserID#0;class#StockInformation#0" />
               </folding>
             </state>
           </provider>
@@ -72,8 +57,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/StockInformationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
+            <state relative-caret-position="304">
+              <caret line="25" column="46" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -82,16 +67,16 @@
         <entry file="file://$PROJECT_DIR$/src/com/vodafone/mahwishriazjamil/interfaces/StockWebService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
-              <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+              <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/FakeWebService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+            <state relative-caret-position="202">
+              <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -122,30 +107,81 @@
         <option value="$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/FakeCloudService.java" />
         <option value="$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/StockInformationTestTest.java" />
         <option value="$PROJECT_DIR$/src/com/vodafone/mahwishriazjamil/interfaces/StockWebService.java" />
+        <option value="$PROJECT_DIR$/src/com/vodafone/mahwishriazjamil/domain/StockInformation.java" />
         <option value="$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/StockInformationTest.java" />
         <option value="$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/FakeWebService.java" />
-        <option value="$PROJECT_DIR$/src/com/vodafone/mahwishriazjamil/domain/StockInformation.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="919" />
-    <option name="width" value="440" />
-    <option name="height" value="1044" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="297" />
+    <option name="height" value="696" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="StocksInformation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StocksInformation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StocksInformation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StocksInformation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StocksInformation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StocksInformation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mahwishriazjamil" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StocksInformation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StocksInformation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mahwishriazjamil" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StocksInformation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StocksInformation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mahwishriazjamil" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StocksInformation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StocksInformation" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StocksInformation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StocksInformation" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544632201081" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544709872526" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -174,7 +210,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StockInformationTest.testAuthenticateShouldThrowWhenPasswordIsValid">
+  <component name="RunManager" selected="JUnit.StockInformationTest.testAuthenticateShouldThrowWhenPasswordIsInvalid">
+    <configuration name="StockInformationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StocksInformation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vodafone.mahwishriazjamil.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.vodafone.mahwishriazjamil.test" />
+      <option name="MAIN_CLASS_NAME" value="com.vodafone.mahwishriazjamil.test.StockInformationTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StockInformationTest.testAuthenticate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="StocksInformation" />
       <extension name="coverage">
@@ -225,8 +275,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.StockInformationTest.testAuthenticateShouldThrowWhenPasswordIsValid" />
         <item itemvalue="JUnit.StockInformationTest.testAuthenticateShouldThrowWhenPasswordIsInvalid" />
+        <item itemvalue="JUnit.StockInformationTest" />
+        <item itemvalue="JUnit.StockInformationTest.testAuthenticateShouldThrowWhenPasswordIsValid" />
         <item itemvalue="JUnit.StockInformationTest.testAuthenticate" />
       </list>
     </recent_temporary>
@@ -242,52 +293,69 @@
       <option name="presentableId" value="Default" />
       <updated>1544610983136</updated>
     </task>
+    <task id="LOCAL-00001" summary="day 3">
+      <created>1544632234551</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544632234551</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StockInformationTest_testAuthenticate - 2018.12.12 at 15h 17m 13s.xml">
-      <configuration name="StockInformationTest.testAuthenticate" configurationId="JUnit" />
+    <history-entry file="StockInformationTest_testAuthenticateShouldThrowWhenPasswordIsValid - 2018.12.13 at 10h 12m 04s.xml">
+      <configuration name="StockInformationTest.testAuthenticateShouldThrowWhenPasswordIsValid" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StockInformationTest_testAuthenticate - 2018.12.12 at 15h 22m 51s.xml">
-      <configuration name="StockInformationTest.testAuthenticate" configurationId="JUnit" />
+    <history-entry file="StockInformationTest_testAuthenticateShouldThrowWhenPasswordIsValid - 2018.12.13 at 10h 12m 26s.xml">
+      <configuration name="StockInformationTest.testAuthenticateShouldThrowWhenPasswordIsValid" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StockInformationTest_testAuthenticate - 2018.12.12 at 15h 23m 53s.xml">
-      <configuration name="StockInformationTest.testAuthenticate" configurationId="JUnit" />
+    <history-entry file="StockInformationTest_testAuthenticateShouldThrowWhenPasswordIsValid - 2018.12.13 at 10h 12m 28s.xml">
+      <configuration name="StockInformationTest.testAuthenticateShouldThrowWhenPasswordIsValid" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StockInformationTest_testAuthenticate - 2018.12.12 at 15h 24m 18s.xml">
-      <configuration name="StockInformationTest.testAuthenticate" configurationId="JUnit" />
+    <history-entry file="StockInformationTest_testAuthenticateShouldThrowWhenPasswordIsValid - 2018.12.13 at 10h 13m 37s.xml">
+      <configuration name="StockInformationTest.testAuthenticateShouldThrowWhenPasswordIsValid" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StockInformationTest_testAuthenticateShouldThrowWhenPasswordIsInvalid - 2018.12.12 at 15h 24m 23s.xml">
+    <history-entry file="StockInformationTest_testAuthenticateShouldThrowWhenPasswordIsValid - 2018.12.13 at 10h 14m 03s.xml">
+      <configuration name="StockInformationTest.testAuthenticateShouldThrowWhenPasswordIsValid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StockInformationTest - 2018.12.13 at 10h 57m 05s.xml">
+      <configuration name="StockInformationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StockInformationTest - 2018.12.13 at 12h 11m 05s.xml">
+      <configuration name="StockInformationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StockInformationTest_testAuthenticateShouldThrowWhenPasswordIsInvalid - 2018.12.13 at 12h 12m 45s.xml">
       <configuration name="StockInformationTest.testAuthenticateShouldThrowWhenPasswordIsInvalid" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StockInformationTest_testAuthenticateShouldThrowWhenPasswordIsValid - 2018.12.12 at 15h 41m 37s.xml">
-      <configuration name="StockInformationTest.testAuthenticateShouldThrowWhenPasswordIsValid" configurationId="JUnit" />
+    <history-entry file="StockInformationTest_testAuthenticateShouldThrowWhenPasswordIsInvalid - 2018.12.13 at 12h 13m 29s.xml">
+      <configuration name="StockInformationTest.testAuthenticateShouldThrowWhenPasswordIsInvalid" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StockInformationTest_testAuthenticateShouldThrowWhenPasswordIsValid - 2018.12.12 at 15h 42m 07s.xml">
-      <configuration name="StockInformationTest.testAuthenticateShouldThrowWhenPasswordIsValid" configurationId="JUnit" />
+    <history-entry file="StockInformationTest_testAuthenticateShouldThrowWhenPasswordIsInvalid - 2018.12.13 at 12h 19m 35s.xml">
+      <configuration name="StockInformationTest.testAuthenticateShouldThrowWhenPasswordIsInvalid" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="968" height="704" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
-      <window_info content_ui="combo" id="Project" order="4" weight="0.2994152" />
+      <window_info content_ui="combo" id="Project" order="4" weight="0.37310416" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.24889868" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.3447619" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.26857144" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.38251367" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="right" id="Maven" order="2" />
@@ -301,19 +369,19 @@
       <window_info id="Capture Tool" order="1" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
-      <window_info content_ui="combo" id="Project" order="4" weight="0.2994152" />
-      <window_info active="true" id="Structure" order="5" side_tool="true" visible="true" weight="0.2491731" />
-      <window_info anchor="bottom" id="Messages" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.3447619" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.37310416" />
+      <window_info id="Structure" order="5" side_tool="true" weight="0.24889868" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.26857144" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.38251367" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="right" id="Maven" order="2" />
@@ -323,68 +391,71 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
     </layout-to-restore>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="day 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 3" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/StocksInformation.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/vodafone/mahwishriazjamil/interfaces/CloudService.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/vodafone/mahwishriazjamil/interfaces/StockWebService.java">
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/NumberFormatException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        <state relative-caret-position="111">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/StockInformationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
+        <state relative-caret-position="304">
+          <caret line="25" column="46" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/FakeWebService.java">
+    <entry file="file://$PROJECT_DIR$/src/com/vodafone/mahwishriazjamil/interfaces/StockWebService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="96">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/vodafone/mahwishriazjamil/domain/StockInformation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="18" column="67" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
+        <state relative-caret-position="176">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1024#1025#0" expanded="true" />
-            <element signature="e#1044#1045#0" expanded="true" />
-            <element signature="e#1077#1078#0" expanded="true" />
-            <element signature="e#1099#1100#0" expanded="true" />
-            <element signature="e#1130#1131#0" expanded="true" />
-            <element signature="e#1164#1165#0" expanded="true" />
-            <element signature="e#1198#1199#0" expanded="true" />
-            <element signature="e#1221#1222#0" expanded="true" />
+            <element signature="n#!!block;n#getAvailable#0;n#StockInformation#0" />
             <element signature="n#!!block;n#getExists#0;n#StockInformation#0" />
             <element signature="n#!!block;n#getCompanyName#0;n#StockInformation#0" />
-            <element signature="e#1368#1369#0" expanded="true" />
-            <element signature="e#1394#1395#0" expanded="true" />
             <element signature="n#!!block;n#getNumberOfSharesOutstanding#0;n#StockInformation#0" />
-            <element signature="e#1530#1531#0" expanded="true" />
-            <element signature="e#1591#1592#0" expanded="true" />
+            <element signature="n#!!block;n#getMarketCapitalisationInMillions#0;n#StockInformation#0" />
             <element signature="n#!!block;n#setUserID#0;n#StockInformation#0" />
             <element signature="n#!!block;n#setPassword#0;n#StockInformation#0" />
             <element signature="n#!!block;n#setSymbol#0;n#StockInformation#0" />
-            <element signature="e#1862#1863#0" expanded="true" />
-            <element signature="e#1895#1896#0" expanded="true" />
-            <element signature="e#1938#1939#0" expanded="true" />
-            <element signature="e#1965#1966#0" expanded="true" />
-            <element signature="e#2017#2018#0" expanded="true" />
-            <element signature="e#2054#2055#0" expanded="true" />
-            <element signature="e#2108#2109#0" expanded="true" />
-            <element signature="e#2147#2148#0" expanded="true" />
-            <element signature="method#setMarketCapitalisationInMillions#0;class#StockInformation#0" />
+            <element signature="n#!!block;n#setAvailable#0;n#StockInformation#0" />
+            <element signature="n#!!block;n#setExists#0;n#StockInformation#0" />
+            <element signature="n#!!block;n#setCompanyName#0;n#StockInformation#0" />
+            <element signature="method#toString#0;class#StockInformation#0" />
+            <element signature="method#authenticateUserID#0;class#StockInformation#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/FakeWebService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
