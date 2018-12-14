@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MessageFormatter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../QA/TDD/MessageFormatter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

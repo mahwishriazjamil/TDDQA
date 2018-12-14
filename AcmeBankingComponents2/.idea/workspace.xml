@@ -2,24 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7eeaaddc-9d4a-4e2b-b8c4-89e43a36941e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../GreetingApplication/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GreetingApplication/src/com/qa/domain/MessageFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StubsTutorial/.idea/libraries/junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StubsTutorial/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StubsTutorial/src/com/company/BasicCalculatorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StubsTutorial/src/com/company/MathApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StubsTutorial/src/stubsTutorial/StubsTutorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StubsTutorial/test/com/vodafone/test/BasicCalculatorStub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StubsTutorial/test/com/vodafone/test/MathApplicationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mockTutorial/src/com/vodafone/domain/MathApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mockTutorial/src/com/vodafone/interfaces/BasicCalculatorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mockTutorial/src/com/vodafone/mockTutorial/MockTutorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mockTutorial/test/MathApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingApplication/.idea/libraries/easymock_4_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingApplication/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingApplication/test/GreeterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StubsTutorial/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StubsTutorial/.idea/libraries/easymock_4_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mockTutorial/.idea/libraries/easymock_4_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mockTutorial/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreetingApplication/src/com/qa/domain/Greeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GreetingApplication/src/com/qa/domain/Greeter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../StocksInformation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StocksInformation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StocksInformation/src/com/vodafone/mahwishriazjamil/domain/StockInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StocksInformation/src/com/vodafone/mahwishriazjamil/domain/StockInformation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StocksInformation/test/com/vodafone/mahwishriazjamil/test/FakeWebService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StocksInformation/test/com/vodafone/mahwishriazjamil/test/FakeWebService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StocksInformation/test/com/vodafone/mahwishriazjamil/test/StockInformationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StocksInformation/test/com/vodafone/mahwishriazjamil/test/StockInformationTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -272,7 +264,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544781164359" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544782160140" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />

@@ -2,24 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2a917be-8e62-474c-b8ef-9b8baf333c0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../GreetingApplication/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GreetingApplication/src/com/qa/domain/MessageFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StubsTutorial/.idea/libraries/junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StubsTutorial/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StubsTutorial/src/com/company/BasicCalculatorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StubsTutorial/src/com/company/MathApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StubsTutorial/src/stubsTutorial/StubsTutorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StubsTutorial/test/com/vodafone/test/BasicCalculatorStub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StubsTutorial/test/com/vodafone/test/MathApplicationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mockTutorial/src/com/vodafone/domain/MathApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mockTutorial/src/com/vodafone/interfaces/BasicCalculatorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mockTutorial/src/com/vodafone/mockTutorial/MockTutorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mockTutorial/test/MathApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingApplication/.idea/libraries/MessageFormatter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingApplication/.idea/libraries/easymock_4_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingApplication/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingApplication/test/GreeterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockInformationTest2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockInformationTest2/.idea/libraries/easymock_4_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockInformationTest2/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockInformationTest2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockInformationTest2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockInformationTest2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockInformationTest2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockInformationTest2/StockInformationTest2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockInformationTest2/src/com.vodafone.domain/StockInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockInformationTest2/src/com.vodafone.interfaces/StockWebService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockInformationTest2/test/com/vodafone/test/StockInformation2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StockInformationTest2/test/com/vodafone/test/StockInformationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/easymock_4_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/StockInformation2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StubsTutorial/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StubsTutorial/.idea/libraries/easymock_4_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mockTutorial/.idea/libraries/easymock_4_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mockTutorial/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AcmeBankingComponents2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AcmeBankingComponents2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreetingApplication/src/com/qa/domain/Greeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GreetingApplication/src/com/qa/domain/Greeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreetingApplication/src/com/qa/interfaces/MessageFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GreetingApplication/src/com/qa/interfaces/MessageFormatter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vodafone/mahwishriazjamil/domain/StockInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vodafone/mahwishriazjamil/domain/StockInformation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/FakeWebService.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/FakeWebService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/StockInformationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/StockInformationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StocksInformation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/StocksInformation.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,8 +42,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/vodafone/mahwishriazjamil/domain/StockInformation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+            <state relative-caret-position="352">
+              <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="105" />
               <folding>
                 <element signature="n#!!block;n#getAvailable#0;n#StockInformation#0" />
                 <element signature="n#!!block;n#getExists#0;n#StockInformation#0" />
@@ -57,8 +66,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/StockInformationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
+            <state relative-caret-position="87">
               <caret line="25" column="46" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/StockInformation2Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-75">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/FakeWebService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+            <state relative-caret-position="442">
+              <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,23 +131,25 @@
         <option value="$PROJECT_DIR$/src/com/vodafone/mahwishriazjamil/domain/StockInformation.java" />
         <option value="$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/StockInformationTest.java" />
         <option value="$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/FakeWebService.java" />
+        <option value="$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/StockInformation2Test.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="297" />
-    <option name="height" value="696" />
+    <option name="width" value="980" />
+    <option name="height" value="1044" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -181,10 +204,10 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544709872526" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544790477084" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/Program Files/easymock-4.0.2/easymock-4.0.2.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -192,6 +215,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.vodafone.mahwishriazjamil.test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.vodafone.mahwishriazjamil.test" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -343,7 +369,7 @@
       <window_info id="Capture Tool" order="1" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
-      <window_info content_ui="combo" id="Project" order="4" weight="0.37310416" />
+      <window_info content_ui="combo" id="Project" order="4" weight="0.24210526" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.24889868" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -369,7 +395,7 @@
       <window_info id="Capture Tool" order="1" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.37310416" />
+      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.24210526" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.24889868" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -414,10 +440,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/StockInformationTest.java">
+    <entry file="file://$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/FakeWebService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="25" column="46" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="46" />
+        <state relative-caret-position="442">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -428,10 +457,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/StockInformationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="25" column="46" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/vodafone/mahwishriazjamil/domain/StockInformation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        <state relative-caret-position="352">
+          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="105" />
           <folding>
             <element signature="n#!!block;n#getAvailable#0;n#StockInformation#0" />
             <element signature="n#!!block;n#getExists#0;n#StockInformation#0" />
@@ -450,10 +486,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/FakeWebService.java">
+    <entry file="file://$PROJECT_DIR$/test/com/vodafone/mahwishriazjamil/test/StockInformation2Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+        <state relative-caret-position="-75">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -538,7 +574,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>hamcrest-core-1.3</last-edited>
+          <last-edited>easymock-4.0.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
