@@ -27,6 +27,8 @@ public class StockInformation2Test {
 		assertEquals(symbol, actualSymbol);
 		
 		verify(mockService);
+		
+		//testing
 		// act is missing. si needs to be used
 	}
 	

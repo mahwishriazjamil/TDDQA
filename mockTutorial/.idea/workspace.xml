@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02745098-a335-4d79-aca8-52ab7685d900" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../GreetingApplication/.idea/libraries/MessageFormatter.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GreetingApplication/.idea/libraries/easymock_4_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GreetingApplication/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GreetingApplication/test/GreeterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockInformationTest2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockInformationTest2/.idea/libraries/easymock_4_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockInformationTest2/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockInformationTest2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockInformationTest2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockInformationTest2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockInformationTest2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockInformationTest2/StockInformationTest2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockInformationTest2/src/com.vodafone.domain/StockInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockInformationTest2/src/com.vodafone.interfaces/StockWebService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockInformationTest2/test/com/vodafone/test/StockInformation2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockInformationTest2/test/com/vodafone/test/StockInformationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StocksInformation/.idea/libraries/easymock_4_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StocksInformation/test/com/vodafone/mahwishriazjamil/test/StockInformation2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StubsTutorial/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StubsTutorial/.idea/libraries/easymock_4_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/easymock_4_0_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AcmeBankingComponents2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AcmeBankingComponents2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GreetingApplication/src/com/qa/domain/Greeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GreetingApplication/src/com/qa/domain/Greeter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GreetingApplication/src/com/qa/interfaces/MessageFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GreetingApplication/src/com/qa/interfaces/MessageFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StocksInformation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StocksInformation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StocksInformation/StocksInformation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../StocksInformation/StocksInformation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StocksInformation/test/com/vodafone/mahwishriazjamil/test/StockInformation2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StocksInformation/test/com/vodafone/mahwishriazjamil/test/StockInformation2Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -193,7 +167,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544790591930" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544790645896" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="C:/Program Files/easymock-4.0.2/easymock-4.0.2.jar!/" />
